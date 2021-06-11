@@ -1,4 +1,4 @@
-column,row,tilex,tiley,sitex,sitey
+column,row,tilex,tiley,tile,sitex,sitey,site
 223,84,15,98,CLEL_L_X15Y98,22,98,SLICEL
 223,83,15,99,CLEL_L_X15Y99,22,99,SLICEL
 223,86,15,96,CLEL_L_X15Y96,22,96,SLICEL
